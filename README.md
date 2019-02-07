@@ -76,7 +76,7 @@ nothing raised on airbrake however
 
 | Time  | Description |
 | ----- | ----------- |
-| 16:23 | Original deployment to public-facing frontends |
+| 16:23 | Original deployment to public-facing frontends; all builds pass |
 | 16:25 | First enquiry to receive a 422 response |
 
 05/02/19
